@@ -176,7 +176,7 @@ PlayerSettings:
   buildNumber: {}
   AndroidBundleVersionCode: 5
   AndroidMinSdkVersion: 19
-  AndroidTargetSdkVersion: 0
+  AndroidTargetSdkVersion: 35
   AndroidPreferredInstallLocation: 1
   aotOptions: 
   stripEngineCode: 1
@@ -753,7 +753,7 @@ PlayerSettings:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
   cloudServicesEnabled:
-    Collab: 1
+    Collab: 0
     UNet: 1
   luminIcon:
     m_Name: 
@@ -767,10 +767,11 @@ PlayerSettings:
     m_VersionCode: 1
     m_VersionName: 
   apiCompatibilityLevel: 6
-  cloudProjectId: d48c051e-c691-4827-a8dd-994f40e07263
+  cloudProjectId: d0df7149-bf98-4ebb-b564-1a3f90393146
   framebufferDepthMemorylessMode: 0
-  projectName: team2game
-  organizationId: doyeonk429
+  projectName: "\uD3B8\uC758\uC810\uC5D0\uC11C \uBC8C\uB808\uB85C \uC0B4\uC544\uB0A8\uAE30
+    (1)"
+  organizationId: hyejunkim
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
